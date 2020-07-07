@@ -9,6 +9,6 @@ Below is a preview of this code:
 C.A.R. Hoare once said:
 >“The most important property of a program is whether it accomplishes the intention of its user.”
 
-Happy Coding!
+Happy Coding! :smiley:
 
-Don't forget to follow me on instagram at https://instagram.com/thegr8kabeer/
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
